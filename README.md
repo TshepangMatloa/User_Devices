@@ -1,2 +1,2 @@
-# User_Devices
-User Devices is a software that keeps track of the devices in the organization. It shows how many devices are allocated to users, how many devices are not allocated and to whom these devices are allocated to.
+#Candy'sBeautyQueens_Web_Application
+Candy's Beauty Queens is a beauty salon. The website markets their business and it also helps them to connect with their clients. Clients will use their website to book an appointment.
